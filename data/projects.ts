@@ -1,48 +1,21 @@
 export const projectsData = [
   {
     id: "project-1",
-    title: "E-Commerce Platform",
+    title: "FatiguePLUS",
     description:
-      "A full-stack e-commerce platform with user authentication, product management, and payment integration.",
+      "Fatigue+ is a Minecraft 1.8.9 client-side mod that introduces a sleep deprivation mechanic to singleplayer. Stay awake too long and you'll suffer progressive debuffs, or sometimes death.",
     image: "/placeholder.svg?height=400&width=600",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    githubUrl: "https://github.com/Alan-seb",
-    liveUrl: "https://example.com",
+    tags: ["Java", "Forge"],
+    githubUrl: "https://github.com/Arctyll/FatiguePLUS",
+
   },
   {
     id: "project-2",
-    title: "Minecraft Economy Plugin",
+    title: "BA-API",
     description:
-      "A comprehensive economy plugin for Minecraft servers with virtual currency, shops, and trading features.",
+      "An API that allows you to send Bossbar, Actionbar, Title & Subtitle in Minecraft 1.8.8.",
     image: "/placeholder.svg?height=400&width=600",
-    tags: ["Java", "Spigot API", "MySQL"],
-    githubUrl: "https://github.com/Alan-seb",
-  },
-  {
-    id: "project-3",
-    title: "Task Management App",
-    description: "A collaborative task management application with real-time updates and team collaboration features.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["Next.js", "Firebase", "Tailwind CSS"],
-    githubUrl: "https://github.com/Alan-seb",
-    liveUrl: "https://example.com",
-  },
-  {
-    id: "project-4",
-    title: "Weather Dashboard",
-    description:
-      "A weather dashboard that displays current and forecasted weather data with interactive visualizations.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["React", "Chart.js", "Weather API"],
-    githubUrl: "https://github.com/Alan-seb",
-    liveUrl: "https://example.com",
-  },
-  {
-    id: "project-5",
-    title: "Minecraft Server Manager",
-    description: "A web-based Minecraft server management tool with plugin installation, backups, and monitoring.",
-    image: "/placeholder.svg?height=400&width=600",
-    tags: ["Node.js", "Express", "Docker", "WebSockets"],
-    githubUrl: "https://github.com/Alan-seb",
+    tags: ["Java", "Spigot API"],
+    githubUrl: "https://github.com/Arctyll/BA-API",
   },
 ]
