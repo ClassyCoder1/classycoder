@@ -23,30 +23,32 @@ export default function SkillsPage() {
   }, [])
 
   const frontendSkills = [
-    { name: "React", level: 90 },
-    { name: "Next.js", level: 85 },
-    { name: "TypeScript", level: 80 },
+    { name: "React", level: 60 },
+    { name: "Next.js", level: 35 },
+    { name: "TypeScript", level: 40 },
     { name: "HTML/CSS", level: 95 },
-    { name: "Tailwind CSS", level: 90 },
+    { name: "Tailwind CSS", level: 95 },
   ]
 
   const backendSkills = [
-    { name: "Node.js", level: 85 },
-    { name: "Express", level: 80 },
-    { name: "MongoDB", level: 75 },
-    { name: "SQL", level: 70 },
-    { name: "Firebase", level: 80 },
+    { name: "Node.js", level: 90 },
+    { name: "Express", level: 85 },
+    { name: "MongoDB", level: 85 },
+    { name: "SQL", level: 80 },
+    { name: "Firebase", level: 70 },
   ]
 
   const minecraftSkills = [
-    { name: "Java", level: 85 },
-    { name: "Bukkit/Spigot API", level: 90 },
+    { name: "Java", level: 90 },
+    { name: "Bukkit/Spigot API", level: 85 },
     { name: "Plugin Development", level: 85 },
+    { name: "Forge/Fabric", level: 70 },
+    { name: "Mod Development", level: 70 },
     { name: "Server Management", level: 80 },
   ]
 
   const otherSkills = [
-    { name: "Git/GitHub", level: 85 },
+    { name: "Git/GitHub", level: 80 },
     { name: "Docker", level: 70 },
     { name: "CI/CD", level: 75 },
     { name: "Problem Solving", level: 90 },

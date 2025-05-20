@@ -82,8 +82,8 @@ export default function AboutPage() {
               <h1 className="text-3xl md:text-4xl font-bold text-white mb-4">About Me</h1>
               <div className="space-y-4 text-cyan-100/90">
                 <p>
-                  Hello! I'm Alan Sebastian, a passionate full-stack developer with expertise in web development and
-                  Minecraft plugin creation.
+                  Hello! I'm Classy, a passionate full-stack developer with expertise in web development and
+                  Minecraft mod creation.
                 </p>
                 <p>
                   My journey in programming began with a curiosity about how websites work, which quickly evolved into a

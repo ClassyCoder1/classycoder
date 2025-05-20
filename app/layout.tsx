@@ -8,9 +8,9 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Alan Sebastian | Full-Stack Developer",
+  title: "Classy | Full-Stack Developer",
   description:
-    "Portfolio of Alan Sebastian, a full-stack developer specializing in web development and Minecraft plugins.",
+    "Portfolio of Classy, a full-stack developer specializing in web development and Minecraft plugins.",
     generator: 'v0.dev'
 }
 

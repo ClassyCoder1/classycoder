@@ -147,7 +147,7 @@ export default function ContactPage() {
                 <div className="pt-4">
                   <h3 className="font-medium text-white mb-4">Social Media</h3>
                   <div className="flex gap-3">
-                    <Link href="https://github.com/Alan-seb" target="_blank">
+                    <Link href="https://github.com/GitHub" target="_blank">
                       <Button
                         variant="outline"
                         size="icon"

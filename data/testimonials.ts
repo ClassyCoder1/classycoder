@@ -17,6 +17,4 @@ export const testimonials = [
     position: "Marketing Director, InnovateCorp",
     avatar: "/placeholder.svg?height=100&width=100"
   },
-  {
-    content: "I've worked with many developers, but Alan stands out for his problem-solving abilities and commitment to quality. Highly recommended!",\
-    author: "David Rodriguez
+]

@@ -65,7 +65,7 @@ export default function Home() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-center space-y-4"
           >
-            <h1 className="text-4xl md:text-6xl font-bold text-white tracking-tight">Alan Sebastian</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-white tracking-tight">Classy</h1>
             <p className="text-lg md:text-xl text-cyan-100/80 max-w-lg">
               Creating seamless digital experiences through code and creativity
             </p>
@@ -120,7 +120,7 @@ export default function Home() {
             transition={{ duration: 0.6, delay: 0.9 }}
             className="flex items-center gap-4 mt-8"
           >
-            <Link href="https://github.com/Alan-seb" target="_blank">
+            <Link href="https://github.com/ClassyCoder1" target="_blank">
               <Button
                 variant="ghost"
                 size="icon"
